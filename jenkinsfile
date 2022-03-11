@@ -39,6 +39,7 @@ steps{
 echo "Compiling the Project.........."
 
 }
+}
 
 stage('Deploy') 
 
